@@ -1,0 +1,9 @@
+2025-09-01 12:00:00 INFO User 10.0.0.1 logged in
+2025-09-01 12:01:15 ERROR Failed to connect to DB
+2025-09-01 12:05:00 WARNING Disk space low
+2025-09-01 12:06:30 INFO User 10.0.0.2 logged out
+2025-09-01 12:10:00 DEBUG Initiating daily backup routine
+2025-09-01 12:10:30 INFO Daily backup completed successfully
+2025-09-01 12:15:00 INFO User 10.0.0.1 logged in
+2025-09-01 12:16:45 ERROR Invalid password attempt for user 10.0.0.1
+2025-09-01 12:20:00 WARNING System CPU usage is at 90%
